@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/build/Games/.vs
+*.pdb
+/build/Games/Games/Debug
